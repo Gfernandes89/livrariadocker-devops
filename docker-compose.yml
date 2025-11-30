@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  site:
+    image: seuusuario/livraria-site:latest
+    ports:
+      - "8080:80"
+    container_name: livraria-site
+    restart: always
