@@ -10,7 +10,7 @@ Projeto desenvolvido como atividade final de DevOps utilizando:
 HTML, CSS e JavaScript servidos por Nginx.
 
 ## Estrutura
-src/ → arquivos do site  
+src/favicon.ico, index.html, livros.json, script.js, style.css   
 Dockerfile  
 docker-compose.yml  
 Jenkinsfile  
