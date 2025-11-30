@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "O Hobbit",
+        "autor": "J. R. R. Tolkien",
+        "preco": 49.90
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "preco": 39.90
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "preco": 29.90
+    }
+]
