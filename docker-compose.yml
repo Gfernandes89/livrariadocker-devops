@@ -2,8 +2,9 @@ version: '3.9'
 
 services:
   site:
-    image: seuusuario/livraria-site:latest
+    image: light89/livrariadocker:latest
     ports:
       - "8080:80"
-    container_name: livraria-site
+    container_name: livrariadocker
     restart: always
+
