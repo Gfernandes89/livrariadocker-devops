@@ -1,10 +1,11 @@
-version: '3.9'
+version: "3.8"
 
 services:
-  site:
-    image: light89/livrariadocker:latest
+  livraria:
+    image: light89/livrariadocker-devops:latest
+    container_name: livraria-app
     ports:
-      - "8080:80"
-    container_name: livrariadocker
+      - "8080:8080"
     restart: always
+
 
